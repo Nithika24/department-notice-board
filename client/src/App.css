@@ -1,0 +1,10 @@
+.notice-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 8px;
+}
+
+.notice-card h2 {
+  margin-top: 0;
+}
